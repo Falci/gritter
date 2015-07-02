@@ -4,5 +4,8 @@
     },
     "name": "gritter",
     "version": "1.8.1",
-    "main": ["./js/jquery.gritter.min.js"]
+    "main": [
+        "./js/jquery.gritter.min.js",
+        "./css/jquery.gritter.css"
+    ]
 }
